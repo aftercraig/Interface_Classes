@@ -1,0 +1,4 @@
+C:\Users\Pavel\Desktop\Interface_Classes\obj\Debug\net7.0\Interface_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\Interface_Classes\obj\Debug\net7.0\Interface_Classes.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Interface_Classes\obj\Debug\net7.0\Interface_Classes.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Interface_Classes\obj\Debug\net7.0\Interface_Classes.csproj.CoreCompileInputs.cache
